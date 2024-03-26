@@ -1,7 +1,5 @@
 ﻿using DiMultipleImplementationOfSameInterface.Services.Implementations;
 using DiMultipleImplementationOfSameInterface.Services.Interfaces;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.DependencyInjection.Extensions;
 
 namespace DiMultipleImplementationOfSameInterface.Extensions
 {

@@ -1,6 +1,5 @@
 ﻿using DiMultipleImplementationOfSameInterface.Services.Implementations;
 using DiMultipleImplementationOfSameInterface.Services.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DiMultipleImplementationOfSameInterface.Controllers
